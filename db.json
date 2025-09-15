@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Naman kumar ",
+      "email": "krnaman120@gmail.com",
+      "password": " mmmm",
+      "role": "student"
+    }
+  ],
+  "projects": [],
+  "applications": []
+}
